@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Tailwind**
 
-- 👯 I’m collaborating on *PROJECTS* [DeVault](www.yourdevault.com) & [Bootcamp Links Library](https://week9bootcamperlinkslibraryfrontend.onrender.com/) & [The Onion News] (https://mikolaj-zagrodzki-percayso.netlify.app/)
+- 👯 I’m collaborating on *PROJECTS:* [DeVault](www.yourdevault.com) & [Bootcamp Links Library](https://week9bootcamperlinkslibraryfrontend.onrender.com/) & [The Onion News](https://mikolaj-zagrodzki-percayso.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
