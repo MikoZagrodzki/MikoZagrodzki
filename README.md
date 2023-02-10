@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Tailwind**
 
-- 👯 I’m looking to collaborate on [DeVault](www.yourdevault.com)
+- 👯 I’m collaborating on [DeVault](www.yourdevault.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
