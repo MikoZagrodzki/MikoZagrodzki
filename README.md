@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ChatGptFront & ChatGptBack Twitter Automatization**
 
-- 🌱 I’m currently learning **TypeScript, Tailwind**
+- 🌱 I’m currently learning **C#, .NET, TypeScript, Tailwind**
 
 - 👯 I’m collaborating on *PROJECTS:* [DeVault](www.yourdevault.com) & [Bootcamp Links Library](https://week9bootcamperlinkslibraryfrontend.onrender.com/) & [The Onion News](https://mikolaj-zagrodzki-percayso.netlify.app/)
 
