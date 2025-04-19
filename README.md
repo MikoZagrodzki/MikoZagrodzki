@@ -4,7 +4,7 @@
   <p>
     <a href="https://qrt.app">Portfolio</a> • 
     <a href="https://linkedin.com/in/miko-zag">LinkedIn</a> • 
-    <a href="mailto:mikozagrodzki@gmail.com">Email</a>
+    <a href="mailto:soberfm@gmail.com">Email</a>
   </p>
 </div>
 
@@ -42,13 +42,14 @@
 - **[QRT.app](https://qrt.app)** – Twitter quote-retweet platform (web app, extension, bot, mobile app)
 - **[f0.app](https://f0.app)** – Full-stack crypto swap platform
 - **[djbonk.xyz](https://djbonk-kappa.vercel.app)** – Meme-driven crypto site
-- **[shakeclub.vip](https://shakeclub.vip)** – Web3 campaign project
+- **[shakeclub.vip](https://shake-website.vercel.app
+)** – Web3 campaign project
 
 ---
 
 ### 🤝 Let's Connect
 <a href="https://linkedin.com/in/miko-zag"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-<a href="mailto:mikozagrodzki@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" /></a>
+<a href="mailto:soberfm@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" /></a>
 <a href="https://qrt.app"><img src="https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=white" /></a>
 
 <p align="center">
