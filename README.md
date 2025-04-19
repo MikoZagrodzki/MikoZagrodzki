@@ -1,22 +1,56 @@
-<h1 align="center">Hi 👋, I'm MiKO</h1>
-<h3 align="center">A passionate frontend developer from Poland, living in London</h3>
+<div align="center">
+  <h1>Hi there, I'm Mikolaj 👋</h1>
+  <p>Creative full-stack developer who loves turning ideas into polished digital products.</p>
+  <p>
+    <a href="https://qrt.app">Portfolio</a> • 
+    <a href="https://linkedin.com/in/miko-zag">LinkedIn</a> • 
+    <a href="mailto:mikozagrodzki@gmail.com">Email</a>
+  </p>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ketaminion&label=Profile%20views&color=0e75b6&style=flat" alt="ketaminion" /> </p>
+---
 
-- 🔭 I’m currently working on **ChatGptFront & ChatGptBack Twitter Automatization**
+### 🚀 About Me
+- 🧠 Self-taught full-stack JavaScript developer (React, Node.js, TypeScript)
+- 🔧 Working with Adsea agency on crypto, e-commerce, and entertainment platforms
+- 🧑‍💻 I build web apps, Chrome extensions, mobile apps, and bots
+- ⚡ AI-enhanced dev: I use Replit, v0.dev, Perplexity, and N8N to move fast
 
-- 🌱 I’m currently learning **C#, .NET, TypeScript, Tailwind**
+---
 
-- 👯 I’m collaborating on *PROJECTS:* [DeVault](www.yourdevault.com) & [Bootcamp Links Library](https://week9bootcamperlinkslibraryfrontend.onrender.com/) & [The Onion News](https://mikolaj-zagrodzki-percayso.netlify.app/)
+### 🛠️ My Toolkit
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mikolaj-zagrodzki-3817911a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikolaj-zagrodzki-3817911a2/" height="30" width="40" /></a>
-<a href="https://instagram.com/3czwarte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="3czwarte" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cyberinsecure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cyberinsecure" height="30" width="40" /></a>
+---
+
+### 🔥 My Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MikoZagrodzki&show_icons=true&hide_border=true&theme=radical" alt="Miko's GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=MikoZagrodzki&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ketaminion&show_icons=true&locale=en&layout=compact" alt="ketaminion" /></p>
+### 🌐 Featured Projects
+- **[QRT.app](https://qrt.app)** – Twitter quote-retweet platform (web app, extension, bot, mobile app)
+- **[f0.app](https://f0.app)** – Full-stack crypto swap platform
+- **[djbonk.xyz](https://djbonk-kappa.vercel.app)** – Meme-driven crypto site
+- **[shakeclub.vip](https://shakeclub.vip)** – Web3 campaign project
+
+---
+
+### 🤝 Let's Connect
+<a href="https://linkedin.com/in/miko-zag"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mikozagrodzki@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" /></a>
+<a href="https://qrt.app"><img src="https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=white" /></a>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MikoZagrodzki&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
