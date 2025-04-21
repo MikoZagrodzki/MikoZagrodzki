@@ -32,8 +32,9 @@
 
 ### 🔥 My Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MikoZagrodzki&show_icons=true&hide_border=true&theme=radical" alt="Miko's GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=MikoZagrodzki&theme=radical&hide_border=true" alt="GitHub Streak"/>
+![](https://github-readme-stats.vercel.app/api?username=MikoZagrodzki&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MikoZagrodzki&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MikoZagrodzki&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </p>
 
 ---
