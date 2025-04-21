@@ -37,7 +37,7 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikoZagrodzki&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)"/> -->
 <!-- </p> -->
 
----
+<!-- --- -->
 
 ### 🌐 Featured Projects
 - **[QRT.app](https://qrt.app)** – Twitter quote-retweet platform (web app, extension, bot, mobile app)
